@@ -1,0 +1,18 @@
+body{
+    background-color: gray;
+}
+
+.title{
+    font-size: 40px;
+    color: crimson;
+}
+
+#principal{
+    font-size: 70px;
+    color: rgb(255, 166, 0);
+}
+
+.logo{
+    width: 300px;
+    height: 300px;
+}
